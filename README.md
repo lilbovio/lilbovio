@@ -1,6 +1,6 @@
 <!-- Banner principal -->
 <p align="center">
-  <img src="https://media.tenor.com/Wh_-qzzx1LIAAAAi/cat-eating-chips-cat-eating-ruffles.gif" width="700">
+  <img src="https://media.tenor.com/Wh_-qzzx1LIAAAAi/cat-eating-chips-cat-eating-ruffles.gif" width="400">
 </p>
 
 <h1 align="center">👋 Hola, soy Juan Pablo Bovio Vallejo</h1>
