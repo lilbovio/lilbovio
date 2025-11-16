@@ -1,6 +1,6 @@
 <!-- Banner principal -->
 <p align="center">
-  <img src="https://imgur.com/gallery/scottia-cant-eat-SEeb4lH#XhXFnBS" width="700">
+  <img src="https://media.tenor.com/Wh_-qzzx1LIAAAAi/cat-eating-chips-cat-eating-ruffles.gif" width="700">
 </p>
 
 <h1 align="center">👋 Hola, soy Juan Pablo Bovio Vallejo</h1>
@@ -61,7 +61,7 @@
 ## 🎉 Un poco de estilo extra
 
 <p align="center">
-  <img src="https://imgur.com/gallery/learn-to-code-one-of-best-posts-dODd2z6#3v4rEMX" width="300">
+  <img src="https://i.imgur.com/3v4rEMX.jpeg" width="300">
 </p>
 
 ---
@@ -69,6 +69,6 @@
 ## ⭐ Gracias por visitar mi perfil
 
 <p align="center">
-  <img src="https://tenor.com/es-419/view/plink-cat-blink-blink-meme-betterttv-gif-2223273356908318183" width="200">
+  <img src="https://media.tenor.com/HtqnVrUcTecAAAAj/plink-cat-blink.gif" width="200">
 </p>
 
