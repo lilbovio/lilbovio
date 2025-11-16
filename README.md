@@ -58,14 +58,6 @@
 
 ---
 
-## 🎉 Un poco de estilo extra
-
-<p align="center">
-  <img src="https://i.imgur.com/3v4rEMX.jpeg" width="300">
-</p>
-
----
-
 ## ⭐ Gracias por visitar mi perfil
 
 <p align="center">
