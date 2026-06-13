@@ -27,14 +27,14 @@
 ## 🌍 Mi Portafolio
 
 🔗 **Portfolio:**  
-👉 https://juanbovioportfolio.vercel.app/
+👉 https://juan-bovio.xyz
 
 ---
 
 ## 💼 LinkedIn
 
 🔗 **LinkedIn:**  
-👉 https://www.linkedin.com/in/juan-pablo-bovio-vallejo-763924353/
+👉 www.linkedin.com/in/juanbovio
 
 ---
 
@@ -44,8 +44,8 @@
 
 - 🔹 **Mi portafolio personal**  
 - 🔹 **MyChangarro** – proyecto escolar en equipo  
-- 🔹 **Bots para Discord / integración de APIs**  
-- 🔹 **Prácticas de programación web**  
+- 🔹 **OnboardIQ**  
+- 🔹 **Apprender**  
 
 ---
 
