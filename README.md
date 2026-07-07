@@ -54,6 +54,7 @@
 <div align="center">
   <img height="160" src="https://github-readme-stats-six-orpin-16.vercel.app/api?username=lilbovio&show_icons=true&theme=tokyonight" />
   <img height="160" src="https://github-readme-stats-six-orpin-16.vercel.app/api/top-langs/?username=lilbovio&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lilbovio&theme=tokyo-night" />
 </div>
 
 ---
