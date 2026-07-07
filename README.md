@@ -59,7 +59,7 @@
 
 ## 📅 Calendario de contribuciones
 <div align="center">
-  <img src="https://ghchart.rshah.org/bb9af7/lilbovio" />
+  <img src="https://ghchart.rshah.org/ff007c/lilbovio" />
 </div>
 
 ---
