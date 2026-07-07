@@ -55,12 +55,11 @@
   <img height="160" src="https://github-readme-stats-six-orpin-16.vercel.app/api?username=lilbovio&show_icons=true&theme=tokyonight" />
   <img height="160" src="https://github-readme-stats-six-orpin-16.vercel.app/api/top-langs/?username=lilbovio&layout=compact&theme=tokyonight" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lilbovio&theme=tokyo-night" />
-  <img src="https://raw.githubusercontent.com/lilbovio/lilbovio/main/profile-summary-card-output/tokyonight/grid.svg" />
 </div>
 
 ## 📅 Calendario de contribuciones
 <div align="center">
-  <img src="https://ghchart.rshah.org/lilbovio" />
+  <img src="https://ghchart.rshah.org/bb9af7/lilbovio" />
 </div>
 
 ---
