@@ -58,6 +58,11 @@
   <img src="https://raw.githubusercontent.com/lilbovio/lilbovio/main/profile-summary-card-output/tokyonight/grid.svg" />
 </div>
 
+## 📅 Calendario de contribuciones
+<div align="center">
+  <img src="https://ghchart.rshah.org/lilbovio" />
+</div>
+
 ---
 
 ## ⭐ Gracias por visitar mi perfil
