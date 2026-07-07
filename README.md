@@ -52,9 +52,11 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats-six-orpin-16.vercel.app/api?username=lilbovio&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats-six-orpin-16.vercel.app/api/top-langs/?username=lilbovio&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lilbovio&theme=tokyo-night" />
+
+[![](https://raw.githubusercontent.com/lilbovio/lilbovio/main/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/lilbovio/lilbovio/main/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/lilbovio/lilbovio/main/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/lilbovio/lilbovio/main/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/lilbovio/lilbovio/main/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 </div>
 
 ## 📅 Calendario de contribuciones
